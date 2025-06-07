@@ -22,7 +22,6 @@ In this practical, I designed and structured a RESTful API for a social media pl
 ### What I Learned
 
 This practical helped me understand:
-
 - The importance of endpoint structuring to ensure scalability and maintainability.
 - The role of authentication and how it protects user data.
 - How to standardize API responses to enhance usability.
@@ -36,11 +35,12 @@ This practical helped me understand:
 | Managing authentication for protected endpoints   | Implemented JWT-based authentication.            |
 | Ensuring meaningful error handling                | Used proper status codes and structured error messages. |
 
-### Photos
+### Screenshots
+#### Error Handling Example
+![Error Handling](Image2.jpg)
 
-![API Design](Image1.jpg)
-![API Design](Image2.jpg)
-![API Design](Image3.jpg)
+#### Authentication Flow
+![Authentication Flow](Image3.jpg)
 
 ## 3. Conclusion
 
